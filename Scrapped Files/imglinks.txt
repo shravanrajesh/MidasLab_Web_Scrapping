@@ -1,0 +1,102 @@
+Page No-1, Name - Home
+Page Link- http://midas.iiitd.edu.in/
+Image Links--
+http://midas.iiitd.edu.in/assets/themes/lab/images/logo/LOGO.png
+http://midas.iiitd.edu.in/assets/themes/lab/images/banner/banner.jpeg
+http://midas.iiitd.edu.in/assets/themes/lab/images/banner/mohit_bansal.jpeg
+http://midas.iiitd.edu.in/assets/themes/lab/images/banner/utah.jpeg
+http://midas.iiitd.edu.in/assets/themes/lab/images/banner/photo_shoot_1.jpg
+http://midas.iiitd.edu.in/assets/themes/lab/images/banner/photo_shoot_2.jpg
+http://midas.iiitd.edu.in/assets/themes/lab/images/banner/btp_mtp.jpg
+http://midas.iiitd.edu.in/assets/themes/lab/images/banner/diwali_2019.jpg
+----------------------------------
+Page No-2, Name - Research
+Page Link- http://midas.iiitd.edu.in/projects/
+Image Links--
+http://midas.iiitd.edu.in/assets/themes/lab/images/logo/LOGO.png
+----------------------------------
+Page No-3, Name - Team
+Page Link- http://midas.iiitd.edu.in/team/
+Image Links--
+http://midas.iiitd.edu.in/assets/themes/lab/images/logo/LOGO.png
+http://midas.iiitd.edu.in/assets/images/team/rajiv.jpeg
+http://midas.iiitd.edu.in/assets/images/team/992020202841.jpg
+http://midas.iiitd.edu.in/assets/images/team/4272020101919.jpg
+http://midas.iiitd.edu.in/assets/images/team/2272020215503.jpg
+http://midas.iiitd.edu.in/assets/images/team/yaman.jpeg
+http://midas.iiitd.edu.in/assets/images/team/shivangi.png
+http://midas.iiitd.edu.in/assets/images/team/hitkul.jpeg
+http://midas.iiitd.edu.in/assets/images/team/7112020120603.jpg
+http://midas.iiitd.edu.in/assets/images/team/PranayRajAnand_MT18079_MIDAS.jpg
+http://midas.iiitd.edu.in/assets/images/team/abhishek18124.jpeg
+http://midas.iiitd.edu.in/assets/images/team/HimanshuSingh_2017291
+http://midas.iiitd.edu.in/assets/images/team/Prakhar_2017306
+http://midas.iiitd.edu.in/assets/images/team/ashwat.jpg
+http://midas.iiitd.edu.in/assets/images/team/Suhavi.jpg
+http://midas.iiitd.edu.in/assets/images/team/gyanesh_anand.jpg
+http://midas.iiitd.edu.in/assets/images/team/shagun.jpg
+http://midas.iiitd.edu.in/assets/images/team/Akash_pic.jpg
+http://midas.iiitd.edu.in/assets/images/team/vedant.JPG
+http://midas.iiitd.edu.in/assets/images/team/osaid.jpeg
+http://midas.iiitd.edu.in/assets/images/team/7232020210844.jpg
+http://midas.iiitd.edu.in/assets/images/team/7142020150552.jpg
+http://midas.iiitd.edu.in/assets/images/team/782020233007.jpg
+http://midas.iiitd.edu.in/assets/images/team/77202002834.jpg
+http://midas.iiitd.edu.in/assets/images/team/77202012503.jpg
+http://midas.iiitd.edu.in/assets/images/team/772020171821.jpg
+http://midas.iiitd.edu.in/assets/images/team/762020235341.jpg
+http://midas.iiitd.edu.in/assets/images/team/Nishtha_2017354_midas.jpg
+http://midas.iiitd.edu.in/assets/images/team/pakhi.jpg
+http://midas.iiitd.edu.in/assets/images/team/imageKush.jpg
+http://midas.iiitd.edu.in/assets/images/team/Nilay.jpg
+http://midas.iiitd.edu.in/assets/images/team/mansi-agarwal.png
+http://midas.iiitd.edu.in/assets/images/team/apoorv_image.jpg
+http://midas.iiitd.edu.in/assets/images/team/Namrata-Mukhija.JPG
+http://midas.iiitd.edu.in/assets/images/team/hritwik-dutta.jpeg
+http://midas.iiitd.edu.in/assets/images/team/karm.jpg
+http://midas.iiitd.edu.in/assets/images/team/sarthak.jpeg
+http://midas.iiitd.edu.in/assets/images/team/IMG_9517.jpg
+http://midas.iiitd.edu.in/assets/images/team/laiba.jpeg
+----------------------------------
+Page No-4, Name - Papers
+Page Link- http://midas.iiitd.edu.in/papers/
+Image Links--
+http://midas.iiitd.edu.in/assets/themes/lab/images/logo/LOGO.png
+----------------------------------
+Page No-5, Name - Sponsor@MIDAS
+Page Link- http://midas.iiitd.edu.in/sponsorship/
+Image Links--
+http://midas.iiitd.edu.in/assets/themes/lab/images/logo/LOGO.png
+http://midas.iiitd.edu.in./resized_sponsors_pic/slti.png
+http://midas.iiitd.edu.in./resized_sponsors_pic/berlitz.png
+http://midas.iiitd.edu.in./resized_sponsors_pic/google.jpg
+http://midas.iiitd.edu.in./resized_sponsors_pic/clickup.png
+http://midas.iiitd.edu.in./resized_sponsors_pic/ai_iiitd.png
+http://midas.iiitd.edu.in./resized_sponsors_pic/serb.png
+http://midas.iiitd.edu.in./resized_sponsors_pic/djb.jpg
+http://midas.iiitd.edu.in./resized_sponsors_pic/bloomberg.png
+http://midas.iiitd.edu.in./resized_sponsors_pic/humonics.png
+http://midas.iiitd.edu.in./resized_sponsors_pic/delhi_police.png
+http://midas.iiitd.edu.in./resized_sponsors_pic/isaksham.png
+http://midas.iiitd.edu.in./resized_sponsors_pic/tcs.png
+http://midas.iiitd.edu.in./resized_sponsors_pic/cdnm.png
+http://midas.iiitd.edu.in./resized_sponsors_pic/iiitd.jpg
+http://midas.iiitd.edu.in./resized_sponsors_pic/expedien.png
+http://midas.iiitd.edu.in./resized_sponsors_pic/inspekt.png
+http://midas.iiitd.edu.in./resized_sponsors_pic/delhi_govt.png
+----------------------------------
+Page No-6, Name - Openings
+Page Link- http://midas.iiitd.edu.in/openings/
+Image Links--
+http://midas.iiitd.edu.in/assets/themes/lab/images/logo/LOGO.png
+----------------------------------
+Page No-7, Name - News
+Page Link- http://midas.iiitd.edu.in/news/
+Image Links--
+http://midas.iiitd.edu.in/assets/themes/lab/images/logo/LOGO.png
+----------------------------------
+Page No-8, Name - Blog
+Page Link- http://midas.iiitd.edu.in/blog/
+Image Links--
+http://midas.iiitd.edu.in/assets/themes/lab/images/logo/LOGO.png
+----------------------------------

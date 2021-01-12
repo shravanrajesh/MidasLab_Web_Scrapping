@@ -1,0 +1,1504 @@
+Page No-1, Name - Home
+Page Link- http://midas.iiitd.edu.in/
+Text Data--
+MIDAS is a group of researchers at IIIT-Delhi who study, analyze, and build different multimedia systems for society leveraging multimodal information. MIDAS stands for Multimodal Digital Media Analysis Lab and it is founded by Dr. Rajiv Ratn Shah. Dr. Shah is an assistant professor in the Department of Computer Science and Engineering (jointly appointed with the Department of Human-Centered Design) at IIIT-Delhi. Our work at MIDAS includes Machine Learning, Multimedia Content Processing, Natural Language Processing, Image Processing, Multimodal Computing, Data Science, and Social Media Computing towards AI for Social Good. We believe in multidisciplinary collaborative research and work closely with eminent researchers from the National University of Singapore (NUS), Georgia Institute of Technology, The University of Texas at Austin, National Institute of Informatics (NII), Bloomberg, SLTI, and others.
+
+Congratulations Shivangi Singhal on winning the best poster award at  IEEE BigMM19 for paper titled, “SPOTFAKE: A MULTI-MODAL FRAMEWORK FOR FAKE NEWS DETECTION”.
+We are thrilled to announce that MIDAS team got the Honorable Mention Award of 2019 ICDM/ICBK KGC Contest. Congratulations to team Mehar Bhatia, Ritwik Mishra, Akash Gautam, Debanjan Mahata and Rajiv Ratn Shah.
+Our team won the first prize in ACM INDIA Chapters Technology Solution Contest - 2019. It was sponsored by ICERTIS. We were awarded Rs 65,000 for being the winner of this challenge. https://t.co/SvboGpKG8v?amp=1
+Congratulations Shivangi Singhal on getting selected for the TCS PhD fellowship.
+
+
+
+Research
+Team
+Papers
+Sponsor@MIDAS
+Openings
+
+              More 
+
+News
+Blog
+
+
+
+
+
+
+
+
+Twiiter
+LinkedIn
+Facebook
+News
+
+					BigMM 2019 Best poster award
+					
+Rajiv
+
+					ICDM/ICBK KGC Honourable Mention
+					
+Rajiv
+
+					First prize in ACM INDIA Chapters Technology Solution Contest - 2019
+					
+Rajiv
+
+					TCS Fellowship Award to Shivangi Singhal
+					
+Rajiv
+Posts
+
+					Mind Your Language
+					
+Raghav
+
+					Kiki Challenge Dataset Release
+					
+Raghav
+Papers
+			
+
+					User Input Based Style Transfer While Retaining Facial Attributes
+					
+
+					Text2FaceGAN: Face Generation from Fine Grained Textual Descriptions
+					
+
+					Supervised Generative Adversarial Cross-modal Hashing by Transferring Pairwise Similarities for Venue Discovery.
+					
+
+					Are you paying attention? Detecting Distracted Driving in Real-time.
+					
+
+Indraprastha Institute of Information Technology, Delhi
+About
+Contact
+----------------------------------
+
+Page No-2, Name - Research
+Page Link- http://midas.iiitd.edu.in/projects/
+Text Data--
+
+
+
+MIDAS@IIITD
+Research
+Team
+Papers
+Sponsor@MIDAS
+Openings
+
+              More 
+
+News
+Blog
+
+Multimodal Social Media Analysis
+
+
+Lipreading and Speech Reconstruction
+
+
+Harnessing AI for Health Care
+
+
+Event Detection and Summarization
+
+
+Code-Switched Language Processing
+
+
+Indraprastha Institute of Information Technology, Delhi
+About
+Contact
+----------------------------------
+
+Page No-3, Name - Team
+Page Link- http://midas.iiitd.edu.in/team/
+Text Data--
+Assistant Professor
+PhD Scholar
+				
+				
+PhD Scholar
+				
+				
+PhD Student
+				
+				, Co-supervised by Ponnurangam Kumaraguru
+				
+				
+				, UGC JRF Fellowship
+				
+PhD Scholar
+				
+				
+				, Google PhD Fellowship
+				
+PhD Scholar
+				
+				, Co-supervised by Ponnurangam Kumaraguru
+				
+				
+				, TCS PhD Fellowship
+				
+PhD Scholar
+				
+				, Co-supervised by Ponnurangam Kumaraguru
+				
+				
+				, TCS PhD Fellowship
+				
+M.Tech Student
+M.Tech Student
+M.Tech Student
+B.Tech Student
+B.Tech Student
+B.Tech Student
+B.Tech Student
+B.Tech Student
+B.Tech Student
+Research Assistant
+B.Tech Student
+B.Tech Student
+Researcher, Manipal Institute of Technology, Manipal, India
+Phd Student, IIITD
+Undergraduate, BITS Pilani
+Research Intern, BITS Pilani
+Research Assistant, IIIT Delhi
+Researcher, MIDAS@IIITD
+Research Assistant, BITS Pilani (Goa Campus)
+B.Tech Student, IIIT Delhi
+Research Assistant, IIIT-Delhi
+B.Tech Student, NSIT
+B.Tech Student, NSIT
+B.Tech Student, DTU
+Research Assistant, DTU
+B.Tech Student, NSIT
+B.Tech Student, NSIT
+Developer, Gramener
+Research Assistant, IIIT-Delhi
+Software Developer, Tower Research Capital
+B.Tech Student, DTU
+Remote Research Collaborator, Software Engineer at Cisco Systems,Bangalore
+Research Fellow, National University of Singapore, Singapore
+Assistant Professor, National Institute of Informatics, Japan
+Assistant Professor, IIIT-Delhi
+Nephropathologist, Arkana Laboratories, USA
+Professor, National Institute of Informatics, Japan
+Associate Professor, National University of Singapore, Singapore
+Associate Professor, IIIT-Delhi
+Lecturer, Nottingham Trent University, U.K.
+Lecturer, University of Technology Sydney, Australia
+Associate Professor, Singapore Management University, Singapore
+Research Scientist, Bloomberg LP, USA
+Assistant Professor, IIIT-Delhi
+Research Scientist, Nanyang Technological University, Singapore
+
+
+
+MIDAS@IIITD
+Research
+Team
+Papers
+Sponsor@MIDAS
+Openings
+
+              More 
+
+News
+Blog
+
+
+
+Rajiv Ratn Shah
+
+
+
+hemant yadav
+
+
+
+Mohit Sharma
+
+
+
+Ritwik Mishra
+
+
+
+Yaman
+
+
+
+Shivangi Singhal
+
+
+
+Hitkul
+
+
+
+Zaki Mustafa
+
+
+
+Pranay Raj Anand
+
+
+
+Abhishek Srivastava
+
+
+
+Himanshu Singh
+
+
+
+Prakhar Goel
+
+
+
+Ashwat Kumar
+
+
+
+Suhavi
+
+
+
+Gyanesh Anand
+
+
+
+Shagun Uppal
+
+
+
+Akash Gautam
+
+
+
+Vedant Bhatia
+
+
+
+Osaid Rehman Nasir
+
+
+
+Shivam Agarwal
+
+
+
+Aradhya Mathur
+
+
+
+Somesh Kumar Singh
+
+
+
+Sharad Chitlangia
+
+
+
+Mehar Bhatia
+
+
+
+Arnav Wadhwa
+
+
+
+Rajaswa Patil
+
+
+
+Nishtha Ahuja
+
+
+
+Pakhi Bamdev
+
+
+
+Kush Misra
+
+
+
+Nilay Shrivastava
+
+
+
+Mansi Agarwal
+
+
+
+Apoorv Bhardwaj
+
+
+
+Namrata Mukhija
+
+
+
+Hritwik Dutta
+
+
+
+Karmanya Aggarwal
+
+
+
+Sarthak Anand
+
+
+
+Ramit Sawhney
+
+
+
+Laiba Mehnaz
+Sreyan Ghosh
+Dr. Yifang Yin
+Dr. Yi Yu
+Dr. Tanmoy Chakraborty
+Dr. Shree Gopal Sharma
+Dr. Shin’ichi Satoh
+Dr. Roger Zimmermann
+Dr. Ponnurangam Kumaraguru
+Dr. Omprakash Kaiwartya
+Dr. Mukesh Prasad
+Dr. Jing Jiang
+Dr. Debanjan Mahata
+Dr. A.V. Subramanyam
+Dr. Soujanya Poria
+Shubham Thakral
+Yashvardhan Singh
+Siddharth Dhawan
+Rajwinder Singh
+Anushka Bhandari
+Vaibhav Varshney
+Viresh Gupta
+Palash Aggrawal
+Harsh Shrivastava
+Abhishek Gupta
+V N S Rama Krishna Pinnimty
+Himani Sharma
+Prateek Rawat
+Pallavi S. Rawat
+Mehak Piplani
+Puneet Mathur
+Astitwa Saxena
+Nupur Baghel
+Rajat Maheshwari
+Shashwat Aggarwal
+Rajat Bansal
+Shivli Agrawal
+Yukti Girdhar
+Paavini Nanda
+Dhruva Sahrawat
+Raghav Kapoor
+Raghav Mehta
+Anmol Chugh
+Varnit Jain
+Karan Dabas
+Arnav Arora
+Aditya Kumar Pathak
+Sanket Jain
+Ashutosh Pandey
+Himanshu Aggarwal
+Anjali Bhavan
+Vaishali Dabral
+Tushar Jain
+SIMRA SHAHID
+Shubham Thakral
+Mohammad Salik
+Sahil Chopra
+Rohit Jain
+Rajat
+Pratham Nawal
+Meghna P Ayyar
+Mayank Aggarwal
+Hitesh Nankani
+Himanshu
+Ayush Gupta
+Akash Kumar
+Agniv Sharma
+Abhigyan Khaund
+Aarya Patel
+
+Indraprastha Institute of Information Technology, Delhi
+About
+Contact
+Faculty
+Graduate Students
+Post-Graduate Students
+Undergraduate Students
+Interns/ Research Assistants
+Collaborator
+Alumni
+----------------------------------
+
+Page No-4, Name - Papers
+Page Link- http://midas.iiitd.edu.in/papers/
+Text Data--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MIDAS@IIITD
+Research
+Team
+Papers
+Sponsor@MIDAS
+Openings
+
+              More 
+
+News
+Blog
+
+
+
+                    Sharan Pai, Nikhil Sachdeva, Rajiv Ratn Shah, Roger Zimmermann, 
+                    User Input Based Style Transfer While Retaining Facial Attributes
+                    
+                    IEEE BigMM
+                    
+                    
+                    
+                    
+                    :68 
+                    
+                    (2020)
+                
+
+
+
+                    Osaid Rehman Nasir, Shailesh Kumar Jha, Manraj Singh Grover, Yi Yu, Ajit Kumar, Rajiv Ratn Shah, 
+                    Text2FaceGAN: Face Generation from Fine Grained Textual Descriptions
+                    
+                    IEEE BigMM
+                    
+                    
+                    
+                    
+                    :58 
+                    
+                    (2020)
+                
+
+
+
+                    Himanshu Aggarwal, Rajiv Ratn Shah, Suhua Tang, Feida Zhu, 
+                    Supervised Generative Adversarial Cross-modal Hashing by Transferring Pairwise Similarities for Venue Discovery.
+                    
+                    IEEE BigMM
+                    
+                    
+                    
+                    
+                    :321 
+                    
+                    (2020)
+                
+
+
+
+                    Maitree Leekha, Mononito Goswami, Yifang Yin, Rajiv Ratn Shah, Roger Zimmermann, 
+                    Are you paying attention? Detecting Distracted Driving in Real-time.
+                    
+                    IEEE BigMM
+                    
+                    
+                    
+                    
+                    :171 
+                    
+                    (2020)
+                
+
+
+
+                    Kshitij Rajput, Raghav Kapoor, Puneet Mathur, Hitkul, Ponnurangam Kumaraguru, and Rajiv Ratn Shah, 
+                    Transfer Learning for Detecting Hateful Sentiments in Code Switched Language
+                    
+                    Springer
+                    
+                    
+                    
+                    
+                    (2020)
+                
+
+
+
+                    Hitesh Nankani, Hritwik Dutta, Harsh Shrivastava, Rama Krishna P V N S, Debanjan Mahata, and Rajiv Ratn Shah, 
+                    Multilingual Sentiment Analysis
+                    
+                    Springer
+                    
+                    
+                    
+                    
+                    (2020)
+                
+
+
+
+                    Anjali Bhavan, Mohit Sharma, Mehak Piplani, Pankaj Chauhan, Hitkul, and Rajiv Ratn Shah, 
+                    Deep Learning Approaches for Speech Emotion Recognition
+                    
+                    Springer
+                    
+                    
+                    
+                    
+                    (2020)
+                
+
+
+
+                    Hitkul, Simra Shahid, Shivangi Singhal, Debanjan Mahata, Ponnurangam Kumaraguru, and Rajiv Ratn Shah, 
+                    Aspect Based Sentiment Analysis of Financial Headlines and Microblogs
+                    
+                    Springer
+                    
+                    
+                    
+                    
+                    (2020)
+                
+
+
+
+                    Yaman Kumar, Dhruva Sahrawat, Shubham Maheshwari, Debanjan Mahata, Amanda Stent, Yifang Yin, Rajiv Ratn Shah, Roger Zimmermann, 
+                    Harnessing GANs for Zero-shot Learning of New Classes in Visual Speech Recognition.
+                    
+                    AAAI
+                    
+                    
+                    
+                    
+                    (2020)
+                
+
+
+
+                    Akash Gautam, Puneet Mathur, Ramit Sawhney, Debanjan Mahata, Rakesh Gosangi, Rajiv Ratn Shah, 
+                    MeTooMA: Multi-Aspect Annotations of Tweets Related to the MeToo movement.
+                    
+                    ICWSM, 2020
+                    
+                    
+                    
+                    
+                    (2019)
+                
+
+
+
+                    Amit Jindal, Dwaraknath Gnaneshwar, Ramit Sawhney, Rajiv Ratn SHAH, 
+                    Leveraging BERT with Mix Up for Sentence Classification
+                    
+                    AAAI Student Abstract, 2020.
+                    
+                    
+                    
+                    
+                    (2019)
+                
+
+
+
+                    Gyanesh Anand, Akash Gautam, Puneet Mathur, Rajiv Ratn SHAH, Ramit Sawhney, 
+                    An Iterative Approach for Identifying Complaint Based Tweets in Social Media Platforms
+                    
+                    AAAI Student Abstract, 2020
+                    
+                    
+                    
+                    
+                    (2019)
+                
+
+
+
+                    Puneet Mathur, Ramit Sawhney, Rajiv Ratn SHAH, 
+                    Suicide Risk Assessment via Temporal Psycholinguistic Modeling
+                    
+                    AAAI Student Abstract, 2020
+                    
+                    
+                    
+                    
+                    (2019)
+                
+
+
+
+                    Shivangi Singhal, Anubha Kabra, Mohit Sharma, Rajiv Ratn Shah, Tanmoy Chakro- barty, Ponnurangam Kumaraguru, 
+                    SpotFake+: A Multimodal Framework for Fake News Detection via Transfer Learning
+                    
+                    AAAI Student Abstract
+                    
+                    
+                    
+                    
+                    (2019)
+                
+
+
+
+                    Avinash Swaminathan, Raj Kuwar Gupta, Raymond Zhang, Debanjan Mahata, Rakesh Gosangi, Rajiv Ratn SHAH, 
+                    Keyphrase Generation for Scientific Articles using GANs
+                    
+                    AAAI Student Abstract
+                    
+                    
+                    
+                    
+                    (2019)
+                
+
+
+
+                    Maitree Leekha, MANSI AGARWAL, Ramit Sawhney, Rajiv Ratn SHAH, Debanjan Mahata, 
+                    Emotion Analysis on Social Media: Impact of Psychological and Contextual Cues
+                    
+                    AAAI Student Abstract
+                    
+                    
+                    
+                    
+                    (2019)
+                
+
+
+
+                    Palak Goenka, Mehak Piplani, Ramit Sawhney, Puneet Mathur, Rajiv Ratn SHAH, 
+                    ESAS: Towards Practical and Explainable Short Answer Scoring
+                    
+                    AAAI Student Abstract, 2020
+                    
+                    
+                    
+                    
+                    (2019)
+                
+
+
+
+                    Anjali Bhavan, Mohit Sharma, Ramit Sawhney, Rajiv Ratn SHAH, 
+                    Analysis of Parliamentary Debate Transcripts Using Community-Based Graphical Approaches.
+                    
+                    AAAI Student Abstract, 2020
+                    
+                    
+                    
+                    
+                    (2019)
+                
+
+
+
+                    Dhruva Sahrawat, Mohit Agarwal, Sanchit Sinha, Aditya Adhikary, Mansi Agarwal, Rajiv Ratn Shah, Roger Zimmermann, 
+                    Video Summarization using Global Attention with Memory Network and LSTM
+                    
+                    2019 IEEE Fifth International Conference on Multimedia Big Data (BigMM)
+                    
+                    
+                    
+                    
+                    (2019)
+                
+
+
+
+                    Nilay Shrivastava, Astitwa Saxena, Yaman Singla, Rajiv Ratn Shah, Amanda, Debanjan Mahata, Preeti Kaur, Roger Zimmermann,, 
+                    MobiVSR: Efficient and Light-weight Neural Network for Visual Speech Recognition on Mobile Devices.
+                    
+                    Interspeech, 2019
+                    
+                    
+                    
+                    
+                    (2019)
+                
+
+
+
+                    Akash Kumar Gautam, Ajit Kumar, Shashwat Aggarwal, Luv Misra, Kush Misra and Rajiv Ratn Shah, 
+                    Multimodal Analysis of Disaster Tweets
+                    
+                    2019 IEEE Fifth International Conference on Multimedia Big Data (BigMM)
+                    
+                    
+                    
+                    
+                    (2019)
+                
+
+
+
+                    Hitkul Jangid, Rajiv Ratn Shah, Ponnurangam Kumaraguru, ShinâĂŹichi Satoh, 
+                    Maybe look closer? Detecting Trolling Prone Images on Instagram.
+                    
+                    2019 IEEE Fifth International Conference on Multimedia Big Data (BigMM)
+                    
+                    
+                    
+                    
+                    (2019)
+                
+
+
+
+                    Ranjodh Singh, Meghna P Ayyar, Tata Sri Pavan, Sandeep Gosain and Rajiv Ratn Shah, 
+                    Automating Car Insurence Claims using Deep Learning Techniques.
+                    
+                    2019 IEEE Fifth International Conference on Multimedia Big Data (BigMM)
+                    
+                    
+                    
+                    
+                    (2019)
+                
+
+
+
+                    Automatic Speech Recognition for Real-time Systems, 
+                    Automatic Speech Recognition for Real-time Systems
+                    
+                    2019 IEEE Fifth International Conference on Multimedia Big Data (BigMM)
+                    
+                    
+                    
+                    
+                    (2019)
+                
+
+
+
+                    Baani Leen Kaur Jolly, Palash Aggrawal, Surabhi S Nath, Viresh Gupta, Manraj Singh Grover, Rajiv Ratn Shah, 
+                    Universal EEG Encoder for Learning Diverse Intelligent Tasks
+                    
+                    IEEE Big Multimedia
+                    
+                    
+                    
+                    
+                    :4 
+                    
+                    (2019)
+                
+
+
+
+                    Harsh Shrivastava, Rama Krishna P V N S, Karmanya Aggarwal, Meghna P Ayyar, Yifang Yin, Rajiv Ratn Shah, Roger Zimmermann, 
+                    Facefetch: An Efficient and Scalable Face Retrieval System That uses Your Visual Memory
+                    
+                    IEEE BigMM
+                    
+                    
+                    
+                    
+                    :338 
+                    
+                    (2019)
+                
+
+
+
+                    Ramit Sawhney, Arijit Ghosh Chowdhury, Aniket Didolkar, Rajiv Ratn Shah, 
+                    CISNet - Leveraging Community Interaction and Social Network Graphs For Detection Of Religious Hate Speech In Arabic
+                    
+                    ACM Hypertext, 2019
+                    
+                    
+                    
+                    
+                    (2019)
+                
+
+
+
+                    Sarthak Anand, Debanjan Mahata, Kartik Aggarwal, Laiba Mehnaz, Simra Shahid, Haimin Zhang, Yaman Kumar, Rajiv Ratn Shah, Karan Uppal, 
+                    MIDAS at SemEval-2019 Task 9: Suggestion Mining from Online Reviews using ULMFiT.
+                    
+                    Proceedings of the 13th International Workshop on Semantic Evaluation (SemEval-2019)
+                    
+                    
+                    
+                    
+                    (2019)
+                
+
+
+
+                    Debanjan Mahata, Haimin Zhang, Karan Uppal, Yaman Kumar, Rajiv Ratn Shah, Simra Shahid, Laiba Mehnaz, Sarthak Anand, 
+                    MIDAS at SemEval-2019 Task 6: Identifying Offensive Posts and Targeted Offense from Twitter
+                    
+                    Proceedings of the 13th International Workshop on Semantic Evaluation (SemEval-2019),
+                    
+                    
+                    
+                    
+                    (2019)
+                
+
+
+
+                    Yaman Kumar, Agniv Sharma, Abhigyan Khaund, Akash Kumar, Ponnurangam Ku- maraguru, Rajiv Ratn Shah, Roger Zimmermann, 
+                    IceBreaker: Solving Cold Start Problem for Video Recommendation Engines
+                    
+                    20th IEEE International Symposium on Multimedia (ISM2018
+                    
+                    
+                    
+                    
+                    (2018)
+                
+
+
+
+                    Yaman Kumar, Rohit Jain, Mohd Salik, Rajiv Ratn Shah, Roger Zimmermann, Yifang Yin, 
+                    MyLipper: A Personalized System for Speech Reconstruction using Multi-view Visual Feeds
+                    
+                    IEEE International Symposium on Multimedia (ISM)
+                    
+                    
+                    
+                    
+                    :159 
+                    
+                    (2018)
+                
+
+
+
+                    Deepanshu Gaur, Meghna Ayyar, Ashutosh Kumar Singh, Rajiv Ratn Shah, 
+                    Multilingual Author Profiling from SMS
+                    
+                    FIRE 2018 challenge
+                    
+                    
+                    
+                    
+                    (2018)
+                
+
+
+
+                    Megha Ayyar, Puneet Mathur, Rajiv Ratn Shah, Shree Gopal Sharma, 
+                    Harnessing AI for Kidney Glomeruli Classification
+                    
+                    IEEE ISM 2018
+                    
+                    
+                    
+                    
+                    (2018)
+                
+
+
+
+                    Puneet Mathur, Ramit Sawhney, Megha Ayyar, Rajiv Ratn Shah, 
+                    Did you offend me? Classification of Offensive Tweets in Hinglish Language
+                    
+                    EMNLP
+                    
+                    
+                    AWL2
+                    
+                    
+                    
+                    (2018)
+                
+
+
+
+                    Yaman Kumar, Swati Aggarwal, Debanjan Mahata, Rajiv Shah, Ponnurangam Kumaraguru, Roger Zimmermann, 
+                    Get IT Scored using AutoSAS - An Automated System for Scoring Short Answers
+                    
+                    AAAI
+                    
+                    
+                    
+                    
+                    (2018)
+                
+
+
+
+                    Puneet Mathur, Megha Ayyar, Sahil Chopra, Simra Shahid, Laiba Mehnaz, Rajiv Ratn Shah, 
+                    Identification of Emergency Blood Donation Request on Twitter
+                    
+                    EMNLP
+                    
+                    
+                    SMM4H
+                    
+                    
+                    
+                    :27-31 
+                    
+                    (2018)
+                
+
+
+
+                    Ramit Sawhney, Rajiv Ratn Shah, Puneet Mathur, Prachi Manchanda, Raj Singh, 
+                    Exploring and Learning Suicidal Ideation Connotations in Social Media with DL
+                    
+                    EMNLP
+                    
+                    
+                    WASSA
+                    
+                    
+                    
+                    (2018)
+                
+
+
+
+                    Himanshu Choudhary, Aditya Kumar Pathak, Rajiv Ratn Shah, Ponnurangam Kumaraguru, 
+                    Neural Machine Translation for English-Tamil
+                    
+                    EMNLP
+                    
+                    
+                    WMT
+                    
+                    
+                    
+                    (2018)
+                
+
+
+
+                    Raghav Kapoor, Yaman Kumar, Kshitij Rajput, Rajiv Ratn Shah, Ponnurangam Kumaraguru, Roger Zimmermann, 
+                    Mind Your Language: Abuse and Offense Detection for Code-Switched Languages
+                    
+                    AAAI
+                    
+                    
+                    
+                    
+                    (2018)
+                
+
+
+
+                     Khwaja Mohd Salik, Yaman Kumar, Rohit Jain, Swati Aggarwal, Rajiv Ratn Shah, Roger Zimmermann, 
+                    DeepLip: Speaker Independent Speech Synthesis using Multi-View Lipreading
+                    
+                    AAAI
+                    
+                    
+                    
+                    
+                    (2018)
+                
+
+
+
+                    Yaman Kumar, Rohit Jain, Khwaja Mhmd, Salik, Rajiv Ratn Shah, Yifang Yi, Roger Zimmermann, 
+                    Lipper: Synthesizing Thy Speech using Multi-View Lipreading
+                    
+                    AAAI
+                    
+                    
+                    
+                    
+                    (2018)
+                
+
+
+
+                    Megha Ayyar, Puneet Mathur, Rajiv Ratn Shah, Shree Gopal Sharma, 
+                    Exploring Classification of Histological Disease Bio-markers from Renal Biopsy Images
+                    
+                    WACV
+                    
+                    
+                    
+                    
+                    (2018)
+                
+
+
+
+                    Nupur Baghel, Yaman Kumar, Paavini Nanda, Rajiv Ratn Shah, Debanjan Mahata, Roger Zimmerman, 
+                    Kiki Kills: Identifying Dangerous Challenge Videos from Social Media
+                    
+
+                    
+                    
+                    
+                    (2018)
+                
+
+
+
+                    Yaman Kumar, Mayank Aggarwal, Pratham Nawal, Shin'ichi Satoh, Rajiv Ratn Shah, Roger Zimmerman, 
+                    Harnessing AI for Speech Reconstruction using Multi-view Silent Video Feed
+                    
+                    ACM Multimedia
+                    
+                    
+                    
+                    
+                    (2018)
+                
+
+
+
+                    Yifang Yin, Rajiv Ratn Shah, Roger Zimmerman, 
+                    Learning and Fusing Multimodal Deep Features for Acoustic Scene Categorization
+                    
+                    ACM Multimedia
+                    
+                    
+                    
+                    
+                    (2018)
+                
+
+
+
+                    Puneet Mathur, Rajiv Ratn Shah, Ramit Sawhney, Debanjan Mahata, 
+                    Detecting Offensive Tweets in Hindi-English Code-Switched Language
+                    
+                    ACL
+                    
+                    
+                    
+                    
+                    :1-9 
+                    
+                    (2018)
+                
+
+
+
+                    Debanjan Mahata, John Kuriakose, Rajiv Ratn Shah, Roger Zimmermann, 
+                    Key2Vec: Automatic Ranked Keyphrase Extraction from Scientific Articles using Phrase Embeddings
+                    
+                    NAACL
+                    
+                    
+                    
+                    
+                    :634-639 
+                    
+                    (2018)
+                
+
+
+
+                    , 
+                    #phramacovigilance - Exploring Deep Learning Techniques for Identifying Mentions of Medication Intake from Twitter
+                    
+                    arXiv
+                    
+                    
+                    
+                    
+                    :Debanjan Mahata, Jasper Friedrichs, Rajiv Ratn Shah, Hitkul 
+                    
+                    (2018)
+                
+
+
+
+                    Hitkul Jangid, Shivangi Singhal, Rajiv Ratn Shah, Roger Zimmermann, 
+                    Aspect-Based Financial Sentiment Analysis using Deep Learning
+                    
+                    WWW '18 Companion Proceedings of the The Web Conference 2018
+                    
+                    
+                    
+                    
+                    :1961-1966 
+                    
+                    (2018)
+                
+
+
+
+                    , 
+                    Theme-weighted Ranking of Keywords from Text Documents using Phrase Embeddings
+                    
+                    arXiv
+                    
+                    
+                    
+                    
+                    :Debanjan Mahata, John Kuriakose, Rajiv Ratn Shah, Roger Zimmerman, John R. Talburt 
+                    
+                    (2018)
+                
+
+
+
+                    , 
+                    A Multimodal Approach to Predict Social Media Popularity
+                    
+                    arXiv
+                    
+                    
+                    
+                    
+                    :Mayank Meghawat,Satyendra Yadav, Debanjan Mahata, Yifang Yin, Rajiv Ratn Shah, Roger Zimmerman 
+                    
+                    (2018)
+                
+
+
+
+                    Debanjan Mahata, Jasper Friedrichs, Rajiv Ratn Shah, Jing Jiang., 
+                    Did you take the #pill? - Detecting Personal Intake of Medicine from Twitter
+                    
+                    IEEE Intelligent Systems on Affective Computing and Sentiment Analysis
+                    
+                    
+                    
+                    
+                    (2018)
+                
+
+
+
+                    Yifang Yin, Rajiv Ratn Shah, Guanfeng Wang, Roger Zimmermann, 
+                    Feature-based Map Matching for Low-Sampling-Rate GPS Trajectories
+                    
+                    ACM Transactions on Spatial Algorithms and Systems
+                    
+                    
+                    
+                    
+                    (2018)
+                
+
+
+
+                    Omprakash Kaiwartya, Yue Cao, Jaime Lloret, Sushil Kumar, Nauman Aslam, Rupak Kharel, Abdul Hanan Abdullah, and Rajiv Ratn Shah, 
+                    Geometry-based Localization for GPS Outage in Vehicular Cyber Physical Systems
+                    
+                    IEEE Transactions on Vehicular Technology
+                    
+                    
+                    67
+                    
+                    
+                    
+                    :3800-3812 
+                    
+                    (2018)
+                
+
+
+
+                    Zhenguang Liu, Zepeng Wang, Luming Zhang, Rajiv Ratn Shah, Yingjie Xia, Yi Yang, and Xuelong Li, 
+                    FastShrinkage: Perceptually-aware Retargeting Toward Mobile Platforms
+                    
+                    ACM Multimedia Conference, United States, October 23-27
+                    
+                    
+                    
+                    
+                    :501-509 
+                    
+                    (2017)
+                
+
+
+
+                    Omprakash Kaiwartya, Abdul Hanan Abdullah, Yue Cao, Jaime Lloret, Sushil Kumar, Rajiv Ratn Shah, Mukesh Prasad, and Shiv Prakash., 
+                    Virtualization in Wireless Sensor Networks: Fault Tolerant Embedding for Internet of Things
+                    
+                    IEEE Internet of Things
+                    
+                    
+                    5
+                    
+                    
+                    
+                    :571-580 
+                    
+                    (2017)
+                
+
+Indraprastha Institute of Information Technology, Delhi
+About
+Contact
+----------------------------------
+
+Page No-5, Name - Sponsor@MIDAS
+Page Link- http://midas.iiitd.edu.in/sponsorship/
+Text Data--
+Contact Prof. Rajiv Ratn Shah (Principal Investigator, MIDAS-IIITD)
+Research Grants shall be used for general lab expenses as well as for specialized research problems.
+Travel Grants shall be used for supporting research-related travel expenses for the lab members. Ex: Attending Conferences
+Research Fellowships shall be used to cover the academic expenses of scholars and students from the lab.
+Donations in terms of product licenses, credits for hardware & software access, etc. shall be used to facilitate research work and management in the lab.
+
+
+
+MIDAS@IIITD
+Research
+Team
+Papers
+Sponsor@MIDAS
+Openings
+
+              More 
+
+News
+Blog
+Prof. Rajiv Ratn Shah
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Indraprastha Institute of Information Technology, Delhi
+About
+Contact
+SPONSORS MIDAS-IIITD
+HOW TO DONATE
+SPONSORSHIP CATEGORIES
+WHY DONATE?
+Research Grants
+Travel Grants
+Research Fellowships
+Donations in Kind
+----------------------------------
+
+Page No-6, Name - Openings
+Page Link- http://midas.iiitd.edu.in/openings/
+Text Data--
+We look for motivated students and interns in our group who are interested to work in the following
+    areas:
+Interested students should check our pages and apply accordingly on the information posted on our pages: Facebook, Twitter, and LinkedIn. 
+    You may also fill the following form which we process at regular intervals.
+We are also open to industry collaboration to solve interesting research problems which can facilitate
+    society. If you are interested to collaborate with MIDAS then feel free to call us at +91-11-26907495 or
+    email us at midas@iiitd.ac.in
+
+
+
+MIDAS@IIITD
+Research
+Team
+Papers
+Sponsor@MIDAS
+Openings
+
+              More 
+
+News
+Blog
+Facebook
+Twitter
+LinkedIn
+form
+
+Indraprastha Institute of Information Technology, Delhi
+About
+Contact
+----------------------------------
+
+Page No-7, Name - News
+Page Link- http://midas.iiitd.edu.in/news/
+Text Data--
+Congratulations Shivangi Singhal on winning the best poster award at  IEEE BigMM19 for paper titled, “SPOTFAKE: A MULTI-MODAL FRAMEWORK FOR FAKE NEWS DETECTION”.
+We are thrilled to announce that MIDAS team got the Honorable Mention Award of 2019 ICDM/ICBK KGC Contest. Congratulations to team Mehar Bhatia, Ritwik Mishra, Akash Gautam, Debanjan Mahata and Rajiv Ratn Shah.
+Our team won the first prize in ACM INDIA Chapters Technology Solution Contest - 2019. It was sponsored by ICERTIS. We were awarded Rs 65,000 for being the winner of this challenge. https://t.co/SvboGpKG8v?amp=1
+Congratulations Shivangi Singhal on getting selected for the TCS PhD fellowship.
+Our paper titled, “Bagged Support Vector Machines for Emotion Recognition from Speech” is got accepted to the Knowledge-Based Systems (KBS) journal with impact factor 4.529. Congrats authors, Anjali Bhavan; Pankaj Chauhan, Hitkul and Rajiv Ratn Shah.
+We are on Facebook and Twitter now. www.facebook.com/midasIIITD and www.twitter.com/midasIIITD
+Congratulations Vaishali for getting placed in Qualcomm.
+A paper titled, “Harnessing AI for Speech Reconstruction using Multi-view Silent Video Feed”, got accepted in the Brave New Idea track of ACM Multimedia 2018 (approx 8% acceptance rate). Congratulation to authors: Yaman Kumar, Mayank Aggarwal, Pratham Nawal, Shin’ichi Satoh, Rajiv Ratn Shah, Roger Zimmerman.
+MIDAS founder and collaborators, Rajiv Ratn Shah, Yifang Yin, and Roger Zimmermann published a full paper titled, “Learning and Fusing Multimodal Deep Features for Acoustic Scene Categorization”, in the ACM Multimedia 2018, a premier conference for multimedia research.
+MIDAS students, Hitkul, Shivangi Singhal, and Himanshu Aggarwal, got selected for six months fully funded internship at National Institute of Informatics, Tokyo, Japan.
+MIDAS collaborator, Dr Debanjan Mahata, is appointed as an adjunct faculty at IIIT-Delhi.
+MIDAS student, Shivangi Singhal, got selected for the ACM India Grad Cohort 2018 which will be held in IIIT Bombay.
+MIDAS intern, Hitkul, enrolled for PhD under the supervision of Prof Rajiv Ratn Shah and Prof PK at IIITD.
+We made our paper titled, “ #phramacovigilance - Exploring Deep Learning Techniques for Identifying Mentions of Medication Intake from Twitter”, online on Arxiv to the research community.
+MIDAS founder, Dr. Rajiv Ratn Shah, and collaborator, Dr. Debanjan Mahata, got their research paper, titled “Did you take the pill? – Detecting Personal Intake of Medicine from Twitter”, accepted in the special chapter of IEEE Intelligent Systems on Affective Computing and Sentiment Analysis.
+MIDAS founder, Dr. Rajiv Ratn Shah, got selected for the Heidelberg Laureate Forum fellowship 2018 which will be held in Heidelberg, Germany.
+Prof Rada Mihalcea from University of Michigan has delivered a keynote on “Multimodal Sensing of Human Behavior” in the MR2AMC workshop organized by MIDAS.
+MIDAS founder, Dr. Rajiv Ratn Shah, organized MR2AMC workshop in conjunction with IEEE MIPR conference at Miami, Florida, USA.
+Professor Shin’ichi Satoh and Prof Henri Angelino from the National Institute of Informatics (NII), Japan visited MIDAS@IIITD  to sign MOU between NII and IIIT-Delhi to establish research collaboration between two institutes. MIDAS founder, Prof Rajiv Ratn Shah, is the contact person at IIIT-Delhi for this research collaboration.
+MIDAS students, Hitkul and Shivangi Singhal, got their research paper, titled “Aspect-Based Financial Sentiment Analysis using Deep Learning”, accepted in WWW 2018.
+MIDAS founder, Dr. Rajiv Ratn Shah, and collaborator, Dr. Debanjan Mahata, got their research paper, titled “Key2Vec: Automatic Ranked Keyphrase Extraction from Scientific Articles Using Phrase Embeddings”, accepted in NAACL 2018.
+Our paper titled, “A Multimodal Approach to Predict Social Media Popularity “, got accepted in the MR2AMC workshop 2018
+Our paper titled, “A Multimodal Approach to Predict Social Media Popularity “, got accepted in the MR2AMC workshop 2018
+MIDAS workshop proposal, MR2AMC, is accepted in the IEEE MIPR conference which will be held at Miami, Florida, USA.
+Shivangi Singhal joined as the first PhD student of the MIDAS lab under the supervision of Prof Rajiv Ratn Shah and Prof Tanmoy Chakraborty.
+Hitkul joined as the first intern of the MIDAS lab under the supervision of Prof Rajiv Ratn Shah.
+Prof Rajiv Ratn Shah founded the MIDAS lab.
+
+
+
+MIDAS@IIITD
+Research
+Team
+Papers
+Sponsor@MIDAS
+Openings
+
+              More 
+
+News
+Blog
+rajiv
+rajiv
+rajiv
+rajiv
+rajiv
+rajiv
+www.facebook.com/midasIIITD
+www.twitter.com/midasIIITD
+rajiv
+rajiv
+Yaman Kumar
+Mayank Aggarwal
+Pratham Nawal
+Shin’ichi Satoh
+Rajiv Ratn Shah
+Roger Zimmerman
+rajiv
+Rajiv Ratn Shah
+Yifang Yin
+Roger Zimmermann
+rajiv
+Hitkul
+Shivangi Singhal
+National Institute of Informatics
+rajiv
+Dr Debanjan Mahata
+IIIT-Delhi
+rajiv
+Shivangi Singhal
+ACM India Grad Cohort 2018
+rajiv
+Hitkul
+Prof Rajiv Ratn Shah
+Prof PK
+rajiv
+rajiv
+Dr. Rajiv Ratn Shah
+Dr. Debanjan Mahata
+rajiv
+Dr. Rajiv Ratn Shah
+rajiv
+Prof Rada Mihalcea
+rajiv
+Dr. Rajiv Ratn Shah
+IEEE MIPR conference
+rajiv
+Professor Shin’ichi Satoh
+National Institute of Informatics (NII), Japan
+IIIT-Delhi
+Prof Rajiv Ratn Shah
+rajiv
+Hitkul
+Shivangi Singhal
+WWW 2018
+rajiv
+Dr. Rajiv Ratn Shah
+Dr. Debanjan Mahata
+NAACL 2018
+rajiv
+rajiv
+rajiv
+IEEE MIPR conference
+rajiv
+Shivangi Singhal
+Prof Rajiv Ratn Shah
+Prof Tanmoy Chakraborty
+rajiv
+Hitkul
+Prof Rajiv Ratn Shah
+rajiv
+Prof Rajiv Ratn Shah
+
+Indraprastha Institute of Information Technology, Delhi
+About
+Contact
+----------------------------------
+
+Page No-8, Name - Blog
+Page Link- http://midas.iiitd.edu.in/blog/
+Text Data--
+
+
+
+MIDAS@IIITD
+Research
+Team
+Papers
+Sponsor@MIDAS
+Openings
+
+              More 
+
+News
+Blog
+Mind Your Language
+Raghav
+Kiki Challenge Dataset Release
+Raghav
+
+Indraprastha Institute of Information Technology, Delhi
+About
+Contact
+----------------------------------
+

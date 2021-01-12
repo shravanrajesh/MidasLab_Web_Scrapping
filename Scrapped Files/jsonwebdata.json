@@ -1,0 +1,180 @@
+{
+  "imagesurl": [
+    {
+      "pageno": 1,
+      "label": "Home",
+      "Page URL": "http://midas.iiitd.edu.in/",
+      "Image Links": [
+        "/assets/themes/lab/images/logo/LOGO.png",
+        "/assets/themes/lab/images/banner/banner.jpeg",
+        "/assets/themes/lab/images/banner/mohit_bansal.jpeg",
+        "/assets/themes/lab/images/banner/utah.jpeg",
+        "/assets/themes/lab/images/banner/photo_shoot_1.jpg",
+        "/assets/themes/lab/images/banner/photo_shoot_2.jpg",
+        "/assets/themes/lab/images/banner/btp_mtp.jpg",
+        "/assets/themes/lab/images/banner/diwali_2019.jpg"
+      ]
+    },
+    {
+      "pageno": 2,
+      "label": "Research",
+      "Page URL": "http://midas.iiitd.edu.in/projects/",
+      "Image Links": [
+        "/assets/themes/lab/images/logo/LOGO.png"
+      ]
+    },
+    {
+      "pageno": 3,
+      "label": "Team",
+      "Page URL": "http://midas.iiitd.edu.in/team/",
+      "Image Links": [
+        "/assets/themes/lab/images/logo/LOGO.png",
+        "/assets/images/team/rajiv.jpeg",
+        "/assets/images/team/992020202841.jpg",
+        "/assets/images/team/4272020101919.jpg",
+        "/assets/images/team/2272020215503.jpg",
+        "/assets/images/team/yaman.jpeg",
+        "/assets/images/team/shivangi.png",
+        "/assets/images/team/hitkul.jpeg",
+        "/assets/images/team/7112020120603.jpg",
+        "/assets/images/team/PranayRajAnand_MT18079_MIDAS.jpg",
+        "/assets/images/team/abhishek18124.jpeg",
+        "/assets/images/team/HimanshuSingh_2017291",
+        "/assets/images/team/Prakhar_2017306",
+        "/assets/images/team/ashwat.jpg",
+        "/assets/images/team/Suhavi.jpg",
+        "/assets/images/team/gyanesh_anand.jpg",
+        "/assets/images/team/shagun.jpg",
+        "/assets/images/team/Akash_pic.jpg",
+        "/assets/images/team/vedant.JPG",
+        "/assets/images/team/osaid.jpeg",
+        "/assets/images/team/7232020210844.jpg",
+        "/assets/images/team/7142020150552.jpg",
+        "/assets/images/team/782020233007.jpg",
+        "/assets/images/team/77202002834.jpg",
+        "/assets/images/team/77202012503.jpg",
+        "/assets/images/team/772020171821.jpg",
+        "/assets/images/team/762020235341.jpg",
+        "/assets/images/team/Nishtha_2017354_midas.jpg",
+        "/assets/images/team/pakhi.jpg",
+        "/assets/images/team/imageKush.jpg",
+        "/assets/images/team/Nilay.jpg",
+        "/assets/images/team/mansi-agarwal.png",
+        "/assets/images/team/apoorv_image.jpg",
+        "/assets/images/team/Namrata-Mukhija.JPG",
+        "/assets/images/team/hritwik-dutta.jpeg",
+        "/assets/images/team/karm.jpg",
+        "/assets/images/team/sarthak.jpeg",
+        "/assets/images/team/IMG_9517.jpg",
+        "/assets/images/team/laiba.jpeg"
+      ]
+    },
+    {
+      "pageno": 4,
+      "label": "Papers",
+      "Page URL": "http://midas.iiitd.edu.in/papers/",
+      "Image Links": [
+        "/assets/themes/lab/images/logo/LOGO.png"
+      ]
+    },
+    {
+      "pageno": 5,
+      "label": "Sponsor@MIDAS",
+      "Page URL": "http://midas.iiitd.edu.in/sponsorship/",
+      "Image Links": [
+        "/assets/themes/lab/images/logo/LOGO.png",
+        "./resized_sponsors_pic/slti.png",
+        "./resized_sponsors_pic/berlitz.png",
+        "./resized_sponsors_pic/google.jpg",
+        "./resized_sponsors_pic/clickup.png",
+        "./resized_sponsors_pic/ai_iiitd.png",
+        "./resized_sponsors_pic/serb.png",
+        "./resized_sponsors_pic/djb.jpg",
+        "./resized_sponsors_pic/bloomberg.png",
+        "./resized_sponsors_pic/humonics.png",
+        "./resized_sponsors_pic/delhi_police.png",
+        "./resized_sponsors_pic/isaksham.png",
+        "./resized_sponsors_pic/tcs.png",
+        "./resized_sponsors_pic/cdnm.png",
+        "./resized_sponsors_pic/iiitd.jpg",
+        "./resized_sponsors_pic/expedien.png",
+        "./resized_sponsors_pic/inspekt.png",
+        "./resized_sponsors_pic/delhi_govt.png"
+      ]
+    },
+    {
+      "pageno": 6,
+      "label": "Openings",
+      "Page URL": "http://midas.iiitd.edu.in/openings/",
+      "Image Links": [
+        "/assets/themes/lab/images/logo/LOGO.png"
+      ]
+    },
+    {
+      "pageno": 7,
+      "label": "News",
+      "Page URL": "http://midas.iiitd.edu.in/news/",
+      "Image Links": [
+        "/assets/themes/lab/images/logo/LOGO.png"
+      ]
+    },
+    {
+      "pageno": 8,
+      "label": "Blog",
+      "Page URL": "http://midas.iiitd.edu.in/blog/",
+      "Image Links": [
+        "/assets/themes/lab/images/logo/LOGO.png"
+      ]
+    }
+  ],
+  "text": [
+    {
+      "pageno": 1,
+      "label": "Home",
+      "Page URL": "http://midas.iiitd.edu.in/",
+      "Image Links": []
+    },
+    {
+      "pageno": 2,
+      "label": "Research",
+      "Page URL": "http://midas.iiitd.edu.in/projects/",
+      "Image Links": []
+    },
+    {
+      "pageno": 3,
+      "label": "Team",
+      "Page URL": "http://midas.iiitd.edu.in/team/",
+      "Image Links": []
+    },
+    {
+      "pageno": 4,
+      "label": "Papers",
+      "Page URL": "http://midas.iiitd.edu.in/papers/",
+      "Image Links": []
+    },
+    {
+      "pageno": 5,
+      "label": "Sponsor@MIDAS",
+      "Page URL": "http://midas.iiitd.edu.in/sponsorship/",
+      "Image Links": []
+    },
+    {
+      "pageno": 6,
+      "label": "Openings",
+      "Page URL": "http://midas.iiitd.edu.in/openings/",
+      "Image Links": []
+    },
+    {
+      "pageno": 7,
+      "label": "News",
+      "Page URL": "http://midas.iiitd.edu.in/news/",
+      "Image Links": []
+    },
+    {
+      "pageno": 8,
+      "label": "Blog",
+      "Page URL": "http://midas.iiitd.edu.in/blog/",
+      "Image Links": []
+    }
+  ]
+}
